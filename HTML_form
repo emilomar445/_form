@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Basliq</title>
+   <style>
+    /*Dizayni burda yarada bilersen*/
+   </style>
+ </head>
+ <body>
+  <form>
+    <div>
+      <li>
+    <label for="ad">Ad</label>
+    <input type="text" id="ad" placeholder="Adinizi yazin" required>
+     </li>
+     <li>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" placeholder="Email adinizi"required>
+      </li>
+    <label for="yas">Yas</label>
+    <input type="Yas" id="Yas" name="yas" placeholder="Yasinizi yazin"required>
+      <li>
+    <label for="bioqrafi">Bioqrafi</label>
+   <textarea id="bioqrafiya" name="bioqrafiya" placeholder="Özünüz haqqında ətraflı məlumat yazın"></textarea>
+     </li>
+     <li>
+ <label for="cins">Cins</label>
+   <select id="cinsi" name="cinsi" required>
+            <option value="">Seçin</option>
+            <option value="erkek">Kisi</option>
+            <option value="qadin">Qadın</option>
+            <option value="digər">Digər</option>
+        </select>
+         </li>
+      <li>
+    <label for="aile-veziyyeti">Ailə vəziyyəti:</label>
+    <input type="radio" id="evli" name="aile-veziyyeti" value="evli">
+    <label for="evli">Evli</label>
+    <input type="radio" id="subay" name="aile-veziyyeti" value="subay">
+    <label for="subay">Subay</label>
+    <input type="radio" id="bosanmis" name="aile-veziyyeti" value="bosanmis">
+    <label for="bosanmis">Bosanmis</label>
+     </li>
+     <li>
+    <label for="musderi razilasmasi">Musderi Razilasmasi</label>
+    <input type="checkbox" id="musderi razilasmasi" name="musderi razilasmasi">
+     <input type="submit"value="Submit">
+    </li>
+      </div>
+  </body>
+   </html><!DOCTYPE html>
+<html>
+<head>
+   <title>Basliq</title>
+   <style>
+    /*Dizayni burda yarada bilersen*/
+   </style>
+ </head>
+ <body>
+  <form>
+    <div>
+      <li>
+    <label for="ad">Ad</label>
+    <input type="text" id="ad" placeholder="Adinizi yazin" required>
+     </li>
+     <li>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" placeholder="Email adinizi"required>
+      </li>
+    <label for="yas">Yas</label>
+    <input type="Yas" id="Yas" name="yas" placeholder="Yasinizi yazin"required>
+      <li>
+    <label for="bioqrafi">Bioqrafi</label>
+   <textarea id="bioqrafiya" name="bioqrafiya" placeholder="Özünüz haqqında ətraflı məlumat yazın"></textarea>
+     </li>
+     <li>
+ <label for="cins">Cins</label>
+   <select id="cinsi" name="cinsi" required>
+            <option value="">Seçin</option>
+            <option value="erkek">Kisi</option>
+            <option value="qadin">Qadın</option>
+            <option value="digər">Digər</option>
+        </select>
+         </li>
+      <li>
+    <label for="aile-veziyyeti">Ailə vəziyyəti:</label>
+    <input type="radio" id="evli" name="aile-veziyyeti" value="evli">
+    <label for="evli">Evli</label>
+    <input type="radio" id="subay" name="aile-veziyyeti" value="subay">
+    <label for="subay">Subay</label>
+    <input type="radio" id="bosanmis" name="aile-veziyyeti" value="bosanmis">
+    <label for="bosanmis">Bosanmis</label>
+     </li>
+     <li>
+    <label for="musderi razilasmasi">Musderi Razilasmasi</label>
+    <input type="checkbox" id="musderi razilasmasi" name="musderi razilasmasi">
+     <input type="submit"value="Submit">
+    </li>
+      </div>
+  </body>
+   </html>
